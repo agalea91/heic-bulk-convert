@@ -1,0 +1,11 @@
+heif-convert -q 100 img/IMG_3542.HEIC img/IMG_3542.jpeg
+heif-convert -q 100 img/IMG_3578.HEIC img/IMG_3578.jpeg
+heif-convert -q 100 img/IMG_3563.HEIC img/IMG_3563.jpeg
+heif-convert -q 100 img/IMG_3555.HEIC img/IMG_3555.jpeg
+heif-convert -q 100 img/IMG_6530.HEIC img/IMG_6530.jpeg
+heif-convert -q 100 img/IMG_3549.HEIC img/IMG_3549.jpeg
+heif-convert -q 100 img/IMG_6504.HEIC img/IMG_6504.jpeg
+heif-convert -q 100 img/IMG_3593.HEIC img/IMG_3593.jpeg
+heif-convert -q 100 img/IMG_3551.HEIC img/IMG_3551.jpeg
+heif-convert -q 100 img/IMG_6509.HEIC img/IMG_6509.jpeg
+heif-convert -q 100 img/IMG_3599.HEIC img/IMG_3599.jpeg
